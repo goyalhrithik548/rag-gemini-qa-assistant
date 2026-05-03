@@ -164,6 +164,3 @@ python app.py
 This project implements a complete end-to-end RAG pipeline with conversational memory, structured document ingestion, and optimized retrieval using LangChain and Google Gemini.
 
 ```
-
-That’s what makes this project 🔥 for recruiters 🚀
-```
