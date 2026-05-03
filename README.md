@@ -165,20 +165,5 @@ This project implements a complete end-to-end RAG pipeline with conversational m
 
 ```
 
----
-
-# 🔥 Final Note (important)
-
-Before pushing to GitHub:
-
-👉 **Remove your API key from `config.py` and regenerate it**
-
----
-
-If you want next level:
-
-👉 Turn this into a **web app (Streamlit)**  
-👉 Add **chat UI like ChatGPT**  
-
 That’s what makes this project 🔥 for recruiters 🚀
 ```
