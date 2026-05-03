@@ -7,7 +7,7 @@ from pathlib import Path
 
 
 # Manual project configuration
-GOOGLE_API_KEY = "AIzaSyCPT9ACMnJZuj7rvAqv_xrVV3msvhBS2Iw"
+GOOGLE_API_KEY = "your_api_key"
 GEMINI_MODEL = "gemini-3-flash-preview"
 EMBEDDING_MODEL = "models/gemini-embedding-2"
 SOURCE_FILE_NAME = "sample_file.txt"
